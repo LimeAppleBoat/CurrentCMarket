@@ -1,5 +1,9 @@
 [
   {
+    "abbr": "STANDARD"
+    "value": 400
+  },
+  {
     "abbr": "USD",
     "value": 373
   },
