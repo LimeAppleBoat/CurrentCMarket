@@ -1,8 +1,10 @@
-{
-  "USD": {
+[
+  {
+    "abbr": "USD"
     "value": 930
   },
-  "AUD": {
+  {
+    "abbr": "AUD"
     "value": 720
   }
-}
+]
