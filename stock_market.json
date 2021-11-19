@@ -1,10 +1,10 @@
 [
   {
-    "abbr": "USD"
+    "abbr": "USD",
     "value": 930
   },
   {
-    "abbr": "AUD"
+    "abbr": "AUD",
     "value": 720
   }
 ]
